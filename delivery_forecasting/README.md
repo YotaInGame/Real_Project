@@ -24,7 +24,7 @@
 | Модель           | Recall|
 | :--------------------- |:---------------------------|
 |Base LinearRegression|25.78|
-|Base c|5.05|
+|Base ForestRegression|5.05|
 |Base CatBoostRegressor|4.94|
 
 
