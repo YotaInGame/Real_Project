@@ -15,7 +15,7 @@
 
 | Описание           | Используемые библиотеки                     |
 | :--------------------- |:---------------------------|
-| Это многомерный тип набора данных, который означает предоставление или вовлечение множества отдельных математических или статистических переменных, многомерный числовой анализ данных. База данных Кливленда на сегодняшний день является единственной, используемой исследователями ML. | pandas, numpy, seaborn, matplotlib.pyplot, sqlalchemy, sklearn, Flask, pickle, CatBoost, LinearRegression, LinearRegression
+| Предоставляется доступ к базе данных и почте. Необходимо привести данные в порядок, собрать общий датасет из БД и xlsx файлов. | pandas, numpy, seaborn, matplotlib.pyplot, sqlalchemy, sklearn, Flask, pickle, CatBoost, LinearRegression, LinearRegression
 
 ## Вывод
 
